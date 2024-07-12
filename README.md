@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HASNA KKP
-- 👀 I’m am BTECH ECE Graduate
+- 👀 I’m a BTECH ECE Graduate
 - 🌱 I completed Web Front End Development Internship in ReactJS and NextJS
 - 💞️ I’m looking to collaborate in user-friendly and efficient web development Projects.
 - 📫 How to reach me hasnanoushi66@gmail.com
